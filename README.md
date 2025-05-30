@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, sou Gustavo Zavatti!
 
-<!--
-**GustavoZ-TT/GustavoZ-TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tenho 17 anos.  
+- 🔭 Curso Ciência da Computação.  
+- 🌱 Estudando a Linguagem C.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/GustavoZ-TT">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoZ-TT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GustavoZ-TT">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoZ-TT&layout=compact&langs_count=16&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
